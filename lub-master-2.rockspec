@@ -1,8 +1,8 @@
 package = "lub"
-version = "1.1.0-2"
+version = "master-2"
 source = {
   url = 'git://github.com/lubyk/lub',
-  tag = 'REL-1.1.0',
+  branch = 'master',
   dir = 'lub',
 }
 description = {
